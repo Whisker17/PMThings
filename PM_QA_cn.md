@@ -40,8 +40,9 @@
 
   对于有界的预测市场，可以通过与由市场评分规则支持的自动做市商进行交易来设计它们，使其始终能够更新市场价格。http://hanson.gmu.edu/mktscore.pdf我在 docs 文件夹 [LogMSR_Demo.xlsx](https://github.com/psztorc/Hivemind/raw/master/docs/LogMSR_Demo.xlsx) 中添加了一个 Excel 表格，以便进一步说明。非常感谢大家的反馈。
 
-- 比特币/美元汇率是否会如此波动，以至于超过预测准确性的任何变化？这个项目不需要稳定币吗？
+- **比特币/美元汇率是否会如此波动，以至于超过预测准确性的任何变化？这个项目不需要稳定币吗？**
 
   该项目为每一个决策创建一个“稳定币”。决策定义了市场的“维度”，并将它们划分为状态。
 
   因此，可以押注任何有决策的货币（美元、黄金、道琼斯指数等），见[例 5](http://www.bitcoinhivemind.com/papers/2_PM_Types.pdf)。
+
