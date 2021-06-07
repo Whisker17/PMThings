@@ -28,6 +28,7 @@ This repo contains something about Prediction Market
 - [Augur’s Automated Market Maker: The LS-LMSR](https://augur.mystrikingly.com/blog/augur-s-automated-market-maker-the-ls-lmsr) ([Reddit](https://www.reddit.com/r/Augur/comments/3ed0wm/augurs_automated_market_maker_the_lslmsr/))
 - [Automated Market Makers for Prediction Markets](https://docs.gnosis.io/conditionaltokens/docs/introduction3/)
 - [Survey of Automated Market Making Algorithms](https://medium.com/terra-money/survey-of-automated-market-making-algorithms-951f91ce727a)
+- [A Practical Liquidity-Sensitive Automated Market Maker](http://www.cs.cmu.edu/~sandholm/liquidity-sensitive%20market%20maker.EC10.pdf)
 
 ### Hivemind
 
