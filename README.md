@@ -29,6 +29,8 @@ This repo contains something about Prediction Market
 - [Automated Market Makers for Prediction Markets](https://docs.gnosis.io/conditionaltokens/docs/introduction3/)
 - [Survey of Automated Market Making Algorithms](https://medium.com/terra-money/survey-of-automated-market-making-algorithms-951f91ce727a)
 - [A Practical Liquidity-Sensitive Automated Market Maker](http://www.cs.cmu.edu/~sandholm/liquidity-sensitive%20market%20maker.EC10.pdf)
+- [IMPLEMENTING HANSON'S MARKET MAKER](http://blog.oddhead.com/2006/10/30/implementing-hansons-market-maker/)
+- 
 
 ### Hivemind
 
