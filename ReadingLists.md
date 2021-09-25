@@ -27,7 +27,8 @@
 
 - [ ] [**Video**] [Designing Markets for Prediction](https://www.youtube.com/watch?v=REIXKossJOU&ab_channel=UWVideo) - Yiling Chen
 - [ ] [**Lecture**] [A Brief Introduction to Prediction Markets](http://www.probabilityandfinance.com/GTP2014/Slides/Abernethy1.pdf)
-- [ ] 
+- [ ] [**Lecture**] [Prediction Markets](https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321419316.pdf)
+- [ ] []
 
 ## Scoring Rules
 
