@@ -82,9 +82,12 @@
 
 ### Articles
 
+### Others
+
 - [ ] [**Podcast**] [EB98 – Robin Hanson: Futarchy, Prediction Markets And The Challenge Of Disruptive Technology](https://www.youtube.com/watch?v=mUUk0jSndoc&ab_channel=EpicenterPodcast)
 - [ ] [**Video**] [On-chain Governance: the Future is Futarchy by Polaris: Alex Stokes at Web3 Summit 2018](https://www.youtube.com/watch?v=i1OSZw7hVHk&ab_channel=Web3Foundation)
 - [ ] [**Video**] [Decentralized Governance - Vitalik Buterin @ ETHNewYork](https://www.youtube.com/watch?v=6LbRtvdRVBw&ab_channel=ETHGlobal)
+- [ ] [**Video**] [Vitalik Buterin : Things that matter outside of defi](https://www.youtube.com/watch?v=oLsb7clrXMQ&t=351s)
 
 ## Relative Programs
 
