@@ -1,5 +1,7 @@
 # PMThings
 
+[![](https://img.shields.io/github/issues/Whisker17/PMThings)](https://github.com/Whisker17/PMThings/issues) 
+
 [**中文版**](https://github.com/Whisker17/PMThings/blob/main/README_CN.md) / [**English**](https://github.com/Whisker17/PMThings/blob/main/README.md)
 
 This repo contains something about Prediction Market
