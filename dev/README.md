@@ -4,9 +4,9 @@
 
 
 
-- [**Website**](https://zeitgeist.pm/)
+- [Website](https://zeitgeist.pm/)
 
-- [**SDK**](https://github.com/zeitgeistpm/tools/tree/main/packages/sdk)
+- [SDK](https://github.com/zeitgeistpm/tools/tree/main/packages/sdk)
 
 
 
@@ -16,8 +16,13 @@
 
 ## Augur
 
-- [**Website**](https://www.augur.net/)
-- [**Whitepaper**](https://github.com/AugurProject/whitepaper/releases/latest/download/augur-whitepaper-v2.pdf)
-- [**Blog**](https://www.augur.net/blog/)
-- [**FAQ**](https://www.augur.net/faqs/)
-- [**Github**](https://github.com/AugurProject/augur)
+- [Website](https://www.augur.net/)
+- [Whitepaper](https://github.com/AugurProject/whitepaper/releases/latest/download/augur-whitepaper-v2.pdf)
+- [Blog](https://www.augur.net/blog/)
+- [FAQ](https://www.augur.net/faqs/)
+- [Github](https://github.com/AugurProject/augur)
+
+
+
+[**More**](https://github.com/Whisker17/PMThings/tree/main/dev/augur)
+
