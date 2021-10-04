@@ -7,3 +7,4 @@
 - [ ] [What is an Automated Market Maker?](https://augur.mystrikingly.com/blog/what-is-an-automated-market-maker)
 - [ ] [Why did Augur decide to move away from an automated market maker?](https://augur.stackexchange.com/questions/104/why-did-augur-decide-to-move-away-from-an-automated-market-maker)
 - [ ] [Augur’s Automated Market Maker: The LS-LMSR](https://augur.mystrikingly.com/blog/augur-s-automated-market-maker-the-ls-lmsr)
+

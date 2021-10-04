@@ -14,8 +14,8 @@
 - [ ] [**Paper**] [**Automated Market Makers for Decentralized Finance (DeFi)**](https://arxiv.org/pdf/2009.01676.pdf)
 - [ ] [**Deck**] [**Excel File: Trading Under MSRs**](https://bitcoinhivemind.com/papers/LogMSR_Demo.xlsx)
 - [ ] [**Article**] [New Prediction Market Design - what I call "Time Dependent Scoring Bets"](https://pashanomics.substack.com/p/new-prediction-market-design-what)
-
 - [ ] [**Paper**] [**Profit-Charging Market Makers with Bounded Loss, Vanishing Bid/Ask Spreads, and Unlimited Market Depth**](https://www.cs.cmu.edu/~sandholm/profitChargingMarketMaker.ec12.pdf)
+- [ ] [**Article**] [What is an Automated Market Maker?](https://augur.mystrikingly.com/blog/what-is-an-automated-market-maker)
 
 
 
@@ -40,3 +40,7 @@
 - [ ] [**Paper**] [Automated Market Makers for Decentralized Finance (DeFi)](https://arxiv.org/pdf/2009.01676.pdf) - Yongge Wang
 - [ ] [**Article**] [**Zeitgeist's Unique AMM Model: The "Rikiddo" Scoring Rule**](https://blog.zeitgeist.pm/introducing-zeitgeists-rikiddo-scoring-rule/)  ([中文版](https://www.chainnews.com/articles/886051557010.htm))
 - [ ] [**Article**] [New Prediction Market Design - what I call "Time Dependent Scoring Bets"](https://pashanomics.substack.com/p/new-prediction-market-design-what)
+- [ ] [**Article**] [Augur’s Automated Market Maker: The LS-LMSR](https://augur.mystrikingly.com/blog/augur-s-automated-market-maker-the-ls-lmsr)
+- [ ] [**Paper**] [A Utility Framework for Bounded-Loss Market Makers](https://arxiv.org/ftp/arxiv/papers/1206/1206.5252.pdf)
+- [ ] 
+
