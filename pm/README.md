@@ -30,7 +30,7 @@
 - [ ] [**Paper**] [Designing Markets for Prediction](https://dash.harvard.edu/bitstream/handle/1/5027266/Chen_DesigningMarkets.pdf)  - Yiling Chen 
 - [ ] [**Video**] [Designing Markets for Prediction](https://www.youtube.com/watch?v=REIXKossJOU&ab_channel=UWVideo)  - Yiling Chen
 - [ ] [**Article**] [**Why don't Prediction Markets Work as well as we like?**](https://pashanomics.substack.com/p/why-dont-prediction-markets-work)
-- [ ] [**Article**] [**预测市场中也有无常损失？如何减小其风险？**](https://www.chainnews.com/articles/353447755264.htm)  ([中文版](https://www.chainnews.com/articles/353447755264.htm))
+- [ ] [**Article**] [**Mitigating Against The Risk of Impermanent Loss In Prediction Markets**](https://blog.zeitgeist.pm/mitigating-against-the-risk-of-impermanent-loss-in-prediction-markets/)  ([中文版](https://www.chainnews.com/articles/353447755264.htm))
 - [ ] [**Article**] [**The Power of Prediction Markets**](https://blog.gnosis.pm/the-power-of-prediction-markets-fedea0b71244)  ([中文版](https://daorayaki.org/yu-ce-shi-chang-de-li-liang/))
 
 
